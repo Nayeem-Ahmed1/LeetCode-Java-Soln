@@ -4,17 +4,6 @@
 
 ---
 
-## 🚀 About
-
-This repository contains my personal solutions to LeetCode problems written in **Java**. I’m using this space to:
-
-- Improve my Java and problem-solving skills
-- Practice for coding interviews and competitive programming
-- Maintain a daily streak and build consistent habits
-- Create a searchable, organized archive of solutions
-
----
-
 ## 📌 Progress Tracker
 
 | Difficulty | Solved |
@@ -25,6 +14,17 @@ This repository contains my personal solutions to LeetCode problems written in *
 | **Total**  | **00** |
 
 _(Updated regularly)_
+
+---
+
+## 🚀 About
+
+This repository contains my personal solutions to LeetCode problems written in **Java**. I’m using this space to:
+
+- Improve my Java and problem-solving skills
+- Practice for coding interviews and competitive programming
+- Maintain a daily streak and build consistent habits
+- Create a searchable, organized archive of solutions
 
 ---
 
