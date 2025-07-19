@@ -1,4 +1,4 @@
-# LeetCode-Java-Soln
+# LeetCode-Java-Solution
 
 📘 A growing collection of **LeetCode solutions in Java** — organized, explained for learning, interviews, and coding practice.
 
