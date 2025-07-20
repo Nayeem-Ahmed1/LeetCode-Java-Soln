@@ -7,11 +7,11 @@
 ## 📌 Progress Tracker
 
 | Difficulty | Solved |
-|------------|--------|
-| Easy       | ✅ 00   |
-| Medium     | ✅ 00   |
-| Hard       | ✅ 00   |
-| **Total**  | **00** |
+| ---------- | ------ |
+| Easy       | ✅ 02  |
+| Medium     | ✅ 00  |
+| Hard       | ✅ 00  |
+| **Total**  | **02** |
 
 _(Updated regularly)_
 
@@ -48,3 +48,4 @@ cd LeetCode-Java-Soln
 
 
 
+```
