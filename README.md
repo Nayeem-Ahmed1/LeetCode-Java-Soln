@@ -8,10 +8,10 @@
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| Easy       | ✅ 02  |
+| Easy       | ✅ 03  |
 | Medium     | ✅ 00  |
 | Hard       | ✅ 00  |
-| **Total**  | **02** |
+| **Total**  | **03** |
 
 _(Updated regularly)_
 
