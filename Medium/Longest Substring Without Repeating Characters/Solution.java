@@ -5,6 +5,8 @@ Problem: https://leetcode.com/problems/longest-substring-without-repeating-chara
 Difficulty: Medium
 Date Solved: 2025-07-25
 
+Note : Two pointers approach.Iterating through the string until i find a character that repeats and if it repeats i can move startindex further or else endIndex just moves,startIndex doesn't change;
+
  */
 
 import java.util.HashMap;
@@ -21,13 +23,15 @@ class Solution {
         int maxLength = 0;
 
         while(endIndex < s.length()){
-            
-            if(map.containsKey(s.charAt(endIndex))  && map.get(s.charAt(endIndex)) >= startIndex){
 
-                startIndex = map.get(s.charAt(endIndex)) + 1 ;
+            char ch = s.charAt(endIndex);
+            
+            if(map.containsKey(ch)  && map.get(ch) >= startIndex){
+
+                startIndex = map.get(ch) + 1 ;
             }
 
-                map.put(s.charAt(endIndex),endIndex);
+                map.put(ch,endIndex);
                 endIndex++;
                  
 
