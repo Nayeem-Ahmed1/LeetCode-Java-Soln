@@ -9,9 +9,9 @@
 | Difficulty | Solved |
 | ---------- | ------ |
 | Easy       | ✅ 06  |
-| Medium     | ✅ 02  |
+| Medium     | ✅ 03  |
 | Hard       | ✅ 00  |
-| **Total**  | **08** |
+| **Total**  | **09** |
 
 _(Updated regularly)_
 
