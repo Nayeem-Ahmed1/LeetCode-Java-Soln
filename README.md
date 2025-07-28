@@ -1,6 +1,6 @@
 # LeetCode-Java-Solution
 
-📘 A growing collection of **LeetCode solutions in Java** — organized, explained for learning, interviews, and coding practice.
+📘 A collection of **LeetCode solutions in Java** — organized, explained for learning, interviews, and coding practice.
 
 ---
 
